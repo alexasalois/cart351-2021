@@ -1,0 +1,44 @@
+
+
+h2{
+  text-align: center;
+  font-size: 40px;
+  color: white;
+  transition: 2s;
+}
+
+h3{
+  text-align: center;
+  font-size: 75px;
+  color: white;
+}
+
+h4 {
+  font-size: 40px;
+  text-align: center;
+}
+
+*{
+  background-color: black;
+  color: #E3CFFF;
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 20px;
+}
+
+#disclaimer {
+  text-align: center;
+  color: white;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.hoverLink:hover {
+  color: black;
+  background-color: white;
+  transition: 0.5s;
+}
